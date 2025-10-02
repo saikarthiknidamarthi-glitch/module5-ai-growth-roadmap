@@ -20,7 +20,9 @@ module5_ai_growth_roadmap/
    ├─ AI_Growth_Roadmap.pdf
    ├─ Module5_Final_Evaluation.docx
    ├─ Module5_Project_Executive_Summary.docx
-   └─ Module5_Project_Report_AI_Growth_Roadmap.docx
+   ├─ Module5_Project_Report_AI_Growth_Roadmap.docx
+   └─ Case_Study_AI_Growth_Roadmap.docx
+
 ```
 
 ---
