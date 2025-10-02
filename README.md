@@ -27,10 +27,11 @@ module5_ai_growth_roadmap/
 
 ## What to Read First
 
-1. **docs/Module5_Project_Executive_Summary.docx** — One‑page summary for quick context.
-2. **docs/Module5_Project_Report_AI_Growth_Roadmap.docx** — Full investor‑grade report.
-3. **docs/AI_Growth_Roadmap.pdf** — Visual deck (2‑slide format).
-4. **docs/Module5_Final_Evaluation.docx** — Rubric‑based mentor evaluation.
+1. [Module5_Project_Executive_Summary.docx](docs/Module5_Project_Executive_Summary.docx) — One-page summary for quick context
+2. [Module5_Project_Report_AI_Growth_Roadmap.docx](docs/Module5_Project_Report_AI_Growth_Roadmap.docx) — Full investor-grade report
+3. [AI_Growth_Roadmap.pdf](docs/AI_Growth_Roadmap.pdf) — Visual deck (2-slide format)
+4. [Module5_Final_Evaluation.docx](docs/Module5_Final_Evaluation.docx) — Rubric-based mentor evaluation
+5. [Case_Study_AI_Growth_Roadmap.docx](docs/Case_Study_AI_Growth_Roadmap.docx) — Structured case study (Tabular + JSON formats)
 
 ---
 
